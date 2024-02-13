@@ -1,13 +1,8 @@
-project :
+search files - 
 Angular frontend files - src/app and src/assets.
+Backend files - src/main and src- test/java/net/javaguides/springboot.
 
-Backend files - src/main and src/
-
-
-
-
-
-
+About project - 
 "Our Employee Management System leverages Angular for the frontend, Spring Boot for the backend, JPA for data persistence, and MySQL for the database. It enables CRUD operations, allowing users to Create, Read, Update, and Delete employee records efficiently."
 # AngularFrontend.
 
