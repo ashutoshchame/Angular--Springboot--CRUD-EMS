@@ -1,5 +1,8 @@
 project :
-Frontend data - 
+Angular frontend files - src/app and src/assets.
+
+Backend files - src/main and src/
+
 
 
 
